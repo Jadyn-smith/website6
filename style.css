@@ -1,0 +1,178 @@
+@charset "UTF-8";
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+	color: #0879A6;
+	font-size: 80px;
+	padding-top: 20px;
+}
+
+h3{ padding-top: 20px;
+	color: #39b2bf}
+h4{padding-top: 30px;
+	color: #39b2bf}
+
+h2{
+	padding-top: 20px;
+	color: #73bcd9}
+a{color: #0879a6}
+
+header {
+	margin: 50;
+	background-color: #C4E5F2;
+	color: white;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 10%;
+	padding-bottom: 10%
+		
+}
+
+
+section{ 
+	padding-left: 15%;
+	padding-right: 15%;}
+
+
+
+body
+{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+	margin: 0;
+	font-size: 1.4em;
+	background-color: white
+		
+}
+
+
+a {
+  color: #0879A6;
+  background-color: none;
+  font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: blue
+}
+
+.button {
+  background-color: #0879a6 ;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+	border-radius: 4px;
+	margin: 50px;
+}
+
+.button:hover {background-color: #1424FF;color: white;}
+
+ .center {
+ display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.leftimage {
+	float: left;
+	padding-right: 50px;
+	padding-bottom: 25px;
+}
+	
+	img {
+  display: block;
+  margin: auto;
+  width: 50%;
+		padding-top: 15px;
+		padding-bottom: 15px
+		
+}
+
+footer {
+	 background-color: #c4e5f2;
+
+	bottom: auto;
+	width: 100%;
+color: black;
+	text-align: center;
+	padding: 10px
+	
+		
+		
+}
+
+q {
+	color: #0879a6; 
+	font-size: 20px;
+	font-weight: 200
+	
+	
+	
+		
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+	width:auto;
+	font-family: "Bebas Neue", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+	background-color: darkblue
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+	width:25%
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+	width:auto;
+	font-family: "Bebas Neue", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+	background-color: darkblue
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
